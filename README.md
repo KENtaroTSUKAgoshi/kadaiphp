@@ -8,7 +8,7 @@ PHP5最終課題
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+(https://khakialpaca97.sakura.ne.jp/kadaiphp05/login.php)
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
